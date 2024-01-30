@@ -1,0 +1,9 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+sqlalchemy
+Flask-Cors
+requests
+Flask-Migrate
+Flask-Script
+pika
